@@ -28,9 +28,11 @@ Algorithm
 
 Program
 
+<img width="430" height="431" alt="fm-code" src="https://github.com/user-attachments/assets/1f7468ed-10d2-440d-a26f-afe75e4dc2fc" />
 
 Output Waveform
 
+<img width="554" height="413" alt="fm-python" src="https://github.com/user-attachments/assets/046663d5-1aa2-4b08-b4ec-f6de8c71bda7" />
 
 Tabular Column
 
@@ -42,6 +44,4 @@ Calculation
 
 
 Result
-
-
 The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
