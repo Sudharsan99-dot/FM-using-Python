@@ -43,4 +43,5 @@ Calculation
 ![FM cal](https://github.com/user-attachments/assets/70a111a5-d37b-4541-ae0d-a1b71823ac6e)
 
 Result
+
 The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
