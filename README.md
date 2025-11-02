@@ -35,11 +35,11 @@ Output Waveform
 
 Tabular Column
 
-![FM py](https://github.com/user-attachments/assets/6db032e2-83e3-4d98-a342-c1f6a4807ddc)
+![fmpy](https://github.com/user-attachments/assets/e0a1f4b9-c340-44e5-8c7a-f7386b5a1b20)
 
 Calculation
 
-![FM cal](https://github.com/user-attachments/assets/70a111a5-d37b-4541-ae0d-a1b71823ac6e)
+![fmcal](https://github.com/user-attachments/assets/5435e115-0c61-483c-8d68-10da0811be4f)
 
 Result
 
